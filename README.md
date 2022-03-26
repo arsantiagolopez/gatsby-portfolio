@@ -1,4 +1,4 @@
-![](./src/images/alex.png?raw=true "Alexander Santiago" | width=250)
+<img src=".src/images/alex.png" width="250">
 
 ## Outdated Personal Portfolio (Gatsby version)
 
