@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
   <img src="/src/images/alex.png" width="200px" />
-</div>
+</p>
 
 ## Outdated Personal Portfolio (Gatsby version)
 
