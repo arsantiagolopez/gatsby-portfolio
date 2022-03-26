@@ -1,6 +1,6 @@
-![](./src/images/alex.png?raw=true "Alexander Santiago")
-
-<img src="/src/images/alex.png" width="50%" />
+<div style="text-align:center">
+  <img src="/src/images/alex.png" width="200px" />
+</div>
 
 ## Outdated Personal Portfolio (Gatsby version)
 
