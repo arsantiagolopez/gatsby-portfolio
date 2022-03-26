@@ -1,7 +1,7 @@
-![alt text](./src/images/alex.png?raw=true "Alexander Santiago")
+![](./src/images/alex.png?raw=true "Alexander Santiago" | width=250)
 
 ## Outdated Personal Portfolio (Gatsby version)
 
-Refactored and updated with TypeScript & Next.js.
+Built with Gatsby
 
 [Check it out!](https://alexandersantiago.com)
